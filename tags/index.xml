@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Universe of bits!</title>
+    <link>https://blacmamba.github.io/tags/</link>
+    <description>Recent content in Tags on Universe of bits!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Aug 2021 22:33:56 +0530</lastBuildDate><atom:link href="https://blacmamba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algorithms</title>
+      <link>https://blacmamba.github.io/tags/algorithms/</link>
+      <pubDate>Sun, 15 Aug 2021 22:33:56 +0530</pubDate>
+      
+      <guid>https://blacmamba.github.io/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datastructure</title>
+      <link>https://blacmamba.github.io/tags/datastructure/</link>
+      <pubDate>Sun, 15 Aug 2021 22:33:56 +0530</pubDate>
+      
+      <guid>https://blacmamba.github.io/tags/datastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://blacmamba.github.io/tags/learning/</link>
+      <pubDate>Sun, 15 Aug 2021 22:33:56 +0530</pubDate>
+      
+      <guid>https://blacmamba.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://blacmamba.github.io/tags/about/</link>
+      <pubDate>Sun, 15 Aug 2021 16:19:06 +0530</pubDate>
+      
+      <guid>https://blacmamba.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
